@@ -8,4 +8,6 @@
 
 ![An image of Bulbasaur, a cute grass-type Pokemon.](00bulb.png)
 
-> This is a quotation right here.  
+> This is a quotation right here.
+
+:+1:
